@@ -90,7 +90,7 @@
     "magento2-rest-client": "github:DivanteLtd/magento2-rest-client",
     "ms": "^2.1.2",
     "native-require": "^1.1.4",
-    "pm2": "^2.10.4",
+    "pm2": "^4.0.0",
     "proxy-polyfill": "^0.3.0",
     "redis-tag-cache": "^1.2.1",
     "reflect-metadata": "^0.1.12",
