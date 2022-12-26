@@ -71,7 +71,7 @@
     "app-root-path": "^2.0.1",
     "body-scroll-lock": "^2.6.4",
     "bodybuilder": "2.2.21",
-    "config": "^1.30.0",
+    "config": "^3.3.1",
     "cross-env": "^3.1.4",
     "dayjs": "^1.8.21",
     "es6-promise": "^4.2.8",
